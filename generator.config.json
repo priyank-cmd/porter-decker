@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-03-23T09:36:43.845Z",
+  "companyFeatures": [
+    "chat"
+  ],
+  "companyWebsiteUrl": "https://vidhema.com/",
+  "companyName": "Porter Decker",
+  "companyLogoUrl": "/brand-logo.png",
+  "companyOtherUrls": [
+    "https://theninehertz.com/"
+  ],
+  "mode": "full-app-mirror",
+  "description": "Full workspace snapshot: real server.js, orchestration/, React src/, RAG. Same behavior as source after npm install --legacy-peer-deps."
+}
